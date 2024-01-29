@@ -1,5 +1,5 @@
 # Cloud Kitchen Delivery Network Optimization
-**Streamlined food delivery networks, using Python and Linear Programming to minimize travel distances.**
+**Streamlined food delivery networks, using Python and Linear Programming to minimize service travel distances.**
 
 In this project, our team aims to establish a network of "cloud kitchens" in Portland, Oregon. The innovative business model involves deploying these kitchens in vacant commercial real estate and delivering meals to service stations using large drones. The primary objective is to efficiently guide the start-up in serving a selected city by leveraging Python programming and Linear Programming.
 
