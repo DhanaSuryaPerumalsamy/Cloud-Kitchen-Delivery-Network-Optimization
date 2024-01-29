@@ -13,8 +13,8 @@ A sample of 50 service station locations is generated randomly for further analy
 
 A Python function calculates Euclidean distances between cloud kitchens and service stations.
 
-_**Task II: Optimization Model Formulation and Solution**
-_
+_**Task II: Optimization Model Formulation and Solution**_
+
 Formulation of an assignment problem using the PuLP library with specified parameters and variables.
 
 Solving the optimization model to determine the best assignment of cloud kitchens to service stations, minimizing total travel distance.
