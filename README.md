@@ -3,7 +3,7 @@ Streamlined food delivery networks, using Python and Linear Programming to minim
 
 In this project, our team aims to establish a network of "cloud kitchens" in Portland, Oregon. The innovative business model involves deploying these kitchens in vacant commercial real estate and delivering meals to service stations using large drones. The primary objective is to efficiently guide the start-up in serving a selected city by leveraging Python programming and Linear Programming.
 
-Task I: Data Gathering and Visualization
+**_Task I: Data Gathering and Visualization_**
 
 Gathering information on 25 business buildings suitable for cloud kitchen locations.
 
@@ -13,15 +13,15 @@ A sample of 50 service station locations is generated randomly for further analy
 
 A Python function calculates Euclidean distances between cloud kitchens and service stations.
 
-Task II: Optimization Model Formulation and Solution
-
+_**Task II: Optimization Model Formulation and Solution**
+_
 Formulation of an assignment problem using the PuLP library with specified parameters and variables.
 
 Solving the optimization model to determine the best assignment of cloud kitchens to service stations, minimizing total travel distance.
 
 Storing the resulting assignments using a sparse data structure.
 
-Task III: Analysis and Visualization
+_**Task III: Analysis and Visualization**_
 
 Construction of an "Origin and Destination (OD)" table showcasing selected pairs based on the optimization model.
 
@@ -29,7 +29,7 @@ Visualization of the assignment solution on the map.
 
 Creation of a frequency graph for different distance ranges to analyze the distribution of Origin-Destination assignments.
 
-Deliverables:
+_**Deliverables:**_
 
 Well-documented Python program ("Codebase.py") generating necessary files.
 
