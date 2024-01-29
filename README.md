@@ -35,7 +35,7 @@ Well-documented Python program ("Codebase.py") generating necessary files.
 
 Locations table ("Locations.txt") detailing cloud kitchen and service station information.
 
-Map of locations ("Locations.jpeg") for visual reference.
+Map of locations ("Locations.jpg") for visual reference.
 
 Distances matrix ("Distances.csv") reflecting calculated Euclidean distances.
 
@@ -43,6 +43,6 @@ Instantiated formulation ("AP.mps") for the optimization model.
 
 OD table ("OD.txt") representing selected Origin-Destination pairs.
 
-Frequency graph ("Frequency.jpeg") illustrating distribution across distance ranges.
+Frequency graph ("Frequency.jpg") illustrating distribution across distance ranges.
 
-Solution map ("Solution.jpeg") for visualizing the optimized assignment.
+Solution map ("Solution.jpg") for visualizing the optimized assignment.
