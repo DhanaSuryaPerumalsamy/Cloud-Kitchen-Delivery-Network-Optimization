@@ -5,7 +5,7 @@ In this project, our team aims to establish a network of "cloud kitchens" in Por
 
 Task I: Data Gathering and Visualization
 
-Teams choose unique cities and gather information on 25 business buildings suitable for cloud kitchen locations.
+Gathering information on 25 business buildings suitable for cloud kitchen locations.
 Coordinates of these locations are obtained using Python libraries, and the data is visualized on a map with optimal boundaries.
 A sample of 50 service station locations is generated randomly for further analysis.
 A Python function calculates Euclidean distances between cloud kitchens and service stations.
@@ -27,8 +27,8 @@ Locations table ("Locations.txt") detailing cloud kitchen and service station in
 Map of locations ("Locations.jpeg") for visual reference.
 Distances matrix ("Distances.csv") reflecting calculated Euclidean distances.
 Instantiated formulation ("AP.mps") for the optimization model.
-
-Abbreviations Used - CK for Cloud kitchen Locations, SDL for Service Delivery Locations.
 OD table ("OD.txt") representing selected Origin-Destination pairs.
 Frequency graph ("Frequency.jpeg") illustrating distribution across distance ranges.
 Solution map ("Solution.jpeg") for visualizing the optimized assignment.
+
+Abbreviations Used - CK for Cloud kitchen Locations, SDL for Service Delivery Locations.
