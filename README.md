@@ -46,5 +46,3 @@ OD table ("OD.txt") representing selected Origin-Destination pairs.
 Frequency graph ("Frequency.jpeg") illustrating distribution across distance ranges.
 
 Solution map ("Solution.jpeg") for visualizing the optimized assignment.
-
-Abbreviations Used - CK for Cloud kitchen Locations, SDL for Service Delivery Locations.
