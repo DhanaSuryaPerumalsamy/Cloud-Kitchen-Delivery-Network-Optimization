@@ -1,14 +1,3 @@
-#Team Members
-
-#Team13
-
-#1. Geethan Karthikeyan
-#2. Dhana Surya Perumalsamy
-
-#City Selected - Portland, Oregon
-
-#Abbreviations Used - CK for Cloud kitchen Locations, SDL for Service Delivery Locations.
-
 import csv
 import pandas as pd
 from geopy.geocoders import Nominatim
